@@ -13,8 +13,6 @@ The repository is structured as follows:
 
 - Data logging and Visualization
 
-- Machine Learning based Gait Analysis
-
-- Abnormal Gait Detection
+- Abnormal Gait Detection using Deep Learning
 
 - Conclusion
