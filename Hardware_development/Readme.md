@@ -13,7 +13,7 @@ materials was carried out prior to this research
 
 - The assembly and wiring of the insole are show below, here copper electrodes are used which facilitate a matrix structure and the voltage is measured across each node as the resistance in the piezo material changes through a conditional circuit.
 
-![image](../assests/assembly.png)
+![image](../assests/assembly.png, align="center")
 
 - The insoles are inserted into a shoe of size EU 43 and the wiring circuit is fabricated as shown below, the complete sensor setup on the subject is shown below
 
