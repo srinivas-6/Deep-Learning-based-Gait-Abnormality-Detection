@@ -21,7 +21,7 @@ materials was carried out prior to this research
 
 - A Motion Processing Unit (MPU) developed by InvenSense was used in this project as IMU’s. This is the smallest 9- axis MPU that combines 3D accelerometers, 3D gyroscope and 3D magnetometer.
 
-![image](./assests/mpu.jpg)
+![image](../assests/mpu.jpg)
 
 ## Sensor Setup on the Subject
 
