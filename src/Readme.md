@@ -28,4 +28,4 @@ also segmented into abnormal validate (av) and abnormal test
 ## Training progress
 ![image](../assests/LSTM_progress.png)
 
-### Refer [here](../Introduction/Thesis.psf) for more information
+### Refer [here](../Introduction/Thesis.pdf) for more information
