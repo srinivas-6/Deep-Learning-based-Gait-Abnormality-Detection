@@ -31,4 +31,9 @@ As pressure distributions are unique to each individual and vary based on severa
  - Abnormal gait data acquisition through simulation of three specific abnormal gait activity
  
  - Using a stacked LSTM model trained on normal behaviour to compute the error vectors for each of sequences, This error vector is then    used as a metric value for detecting abnormality
-
+ 
+ - One example shown here is prediction of LSTM against hemiplegic abnormal gait, the prediction error magnitude is 0.25 which indicates the presence of abnormality.
+ 
+Gait Simulation      |LSTM output       
+---      |---------|
+![](assests/hemi_plegic_simulation.png)    |![](assests/lstm_hemiplegic.png) 
