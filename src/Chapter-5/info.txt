@@ -1,0 +1,22 @@
+
+
+**************************************************************************************************************************************************************
+
+
+ This folder contains scripts corresponding to Chapter - 5 of the thesis report . Chapter -5 explains about Abnormal gait detection using LSTM reccurent neural networks. A self explainatory tutorial describing each step is written in the jupyter notebook titled (Abnormal Gait Detection.ipynb) 
+
+The data sets used for this task are present in ./dataset/abnormal/*.rar
+
+Example:
+
+training data - dataset/applied/Arv_with_weights/LL_B_label.txt
+inference data - dataset/abnormal/*.rar/Abnormal2_NaN_NaN_NaN_NaN_RightInsole.txt
+
+samples from [500 : 2000] correspond to Hemiplegic gait
+samples from [2000: 4500] correspond to Parkinson gait
+samples form [4500: 5300] correspond to sensory ataxic gait
+
+Slicing of the samples is similar to all other datasets in the mentioned directory.
+
+
+***************************************************************************************************************************************************************

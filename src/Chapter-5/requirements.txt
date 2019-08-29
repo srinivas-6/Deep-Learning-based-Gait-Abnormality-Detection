@@ -1,0 +1,16 @@
+Packages needed to run the juypter notebook tutorial
+
+python 3.x
+jupyter notebook
+pandas
+numpy
+scikitlearn
+keras
+matplotlib
+scipy
+
+After installing python along with pip manager, install other libraries using pip install ----
+
+For example 
+
+pip install numpy
