@@ -17,7 +17,7 @@ Showcases the sensor system hardware and software that was designed and develope
 ![image](assests/insole_gray.png)
 
 
-## - Data Visualization
+## Data Visualization
 
 ### Visualization of data vollected from the developed sensor system
 
