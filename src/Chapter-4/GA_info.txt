@@ -1,0 +1,28 @@
+ Introduction to Genetic Algorithm
+
+A genetic-algorithm is a heuristic search, inspired form the theory of natural evolution by Charle's Darwin.This algorithm reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next generation.
+
+Methodology of Natural Selection
+
+The process of natural selection starts with the fittest individuals from a random population. They produce offspring which have some inheritance with respect to their parents and will be added to the next generation.This process loops until the fittest individuals will be found.
+
+Five phases 
+
+1. Initial population
+2. Fitness function
+3. Selection
+4. Crossover
+5. Mutation
+
+More information on Genetic algorithm can be found from an excellent post by Will Larson, [here] (https://lethain.com/genetic-algorithms-cool-name-damn-simple/)
+
+Evolution of Neural Networks using Genetic Algorithm
+
+Brute Force Method: Trying every combination of different Hyper parameters, to acheive the desired accuracy. Which is time consuming and there’s gotta be a better way!
+
+Here, we try to improve upon the brute force method by applying a genetic algorithm to evolve a network with the goal of achieving optimal hyperparameters in a fraction the time of a brute force search.
+
+Credits
+Genetic Algorithms are generally used to generate high quality and optimized solutions.Most of the code is self explainatory, the script **optimizer.py** has the main five phases of the genetic Algorithm and is heavily inspired and taken from this informative post. (https://medium.com/@harvitronix/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164)  
+
+Network architecture and various parameters should be defined in **main.py** and after building the script, the genetic algorithm starts executing. At the end a **log.txt** file is created which gives information about the defined hyperparameters and their corresponding accuracies. Read through the **log.txt ** file for more information.
