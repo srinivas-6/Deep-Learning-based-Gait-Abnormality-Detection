@@ -3,7 +3,7 @@
 
 This folder contains scripts corresponding to Chapter - 4  of the thesis work. The folder is structured as follows:
 
-1.  genetic_algorithm --> contains scripts for executing genetic algorithm. Read through the **GA_info.txt** file on how to run the           scripts and how to interpret the **log.txt** file.
+1.  genetic_algorithm --> Read through the github repo (https://github.com/harvitronix/neural-network-genetic-algorithm) on how to run the     scripts and how to interpret the **log.txt** file.
 
 2. machine_learning --> contains scripts for classification model and regression model. The preprocessing and neural network     definitions with proper comments are written in the scripts. Most of them are self-explainatory.
 
