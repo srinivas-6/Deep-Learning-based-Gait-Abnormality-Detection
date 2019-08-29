@@ -17,7 +17,7 @@ Showcases the sensor system hardware and software that was designed and develope
 ![image](assests/insole_gray.png)
 
 
-## - [Data Visualization]
+## - Data Visualization
 
 ### Visualization of data vollected from the developed sensor system
 
@@ -26,7 +26,9 @@ As pressure distributions are unique to each individual and vary based on severa
 ![image](assests/sole.gif)
 
 
-- [Abnormal Gait Detection using Deep Learning](src)
+## - [Abnormal Gait Detection using Deep Learning](src)
 
-
+ - Abnormal gait data acquisition through simulation of three specific abnormal gait activity
+ 
+ - Using a stacked LSTM model trained on normal behaviour to compute the error vectors for each of sequences, This error vector is then    used as a metric value for detecting abnormality
 - Conclusion
