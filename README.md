@@ -7,19 +7,19 @@ In this research a wearable sensor system is presented, which combines **Plantar
 ![image](assests/cover_pic.png)
 
 The repository is structured as follows:
-- [Introduction](Introduction)
+## - [Introduction](Introduction)
 
 Provides a clear insight into the fundamentals of gait and the characteristics associated with Normal and Abnormal gait behaviors.
 
-- [Hardware development](Hardware_development)
+## - [Hardware development](Hardware_development)
 
 Showcases the sensor system hardware and software that was designed and developed suitable for the current goal
 ![image](assests/insole_gray.png)
-![image](assests/setup.png)
 
-- [Data Visualization]
 
-##Visualization of data vollected from the developed sensor system
+## - [Data Visualization]
+
+### Visualization of data vollected from the developed sensor system
 
 As pressure distributions are unique to each individual and vary based on several factors such as body weight, age and foot shape visualizing the quantitative data collected from the insole will help further for indepth analysis
 
