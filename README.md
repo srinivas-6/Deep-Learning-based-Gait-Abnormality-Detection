@@ -38,4 +38,4 @@ Gait Simulation      |LSTM output
 ---      |---------|
 ![](assests/hemi_plegic_simulation.png)    |![](assests/lstm_hemiplegic.png) 
 
-Refer [here](src), performance of the LSTM model against other abnormalities and the clear depicted difference between normal and abnormal gait
+Refer [here](src) for more information
