@@ -7,11 +7,11 @@ In this research a wearable sensor system is presented, which combines **Plantar
 ![image](assests/cover_pic.png)
 
 The repository is structured as follows:
-## - [Introduction](Introduction)
+## [Introduction](Introduction)
 
 Provides a clear insight into the fundamentals of gait and the characteristics associated with Normal and Abnormal gait behaviors.
 
-## - [Hardware development](Hardware_development)
+## [Hardware development](Hardware_development)
 
 Showcases the sensor system hardware and software that was designed and developed suitable for the current goal
 ![image](assests/insole_gray.png)
@@ -26,9 +26,9 @@ As pressure distributions are unique to each individual and vary based on severa
 ![image](assests/sole.gif)
 
 
-## - [Abnormal Gait Detection using Deep Learning](src)
+## [Abnormal Gait Detection using Deep Learning](src)
 
  - Abnormal gait data acquisition through simulation of three specific abnormal gait activity
  
  - Using a stacked LSTM model trained on normal behaviour to compute the error vectors for each of sequences, This error vector is then    used as a metric value for detecting abnormality
-- Conclusion
+
