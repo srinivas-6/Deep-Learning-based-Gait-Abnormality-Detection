@@ -1,0 +1,15 @@
+Packages needed to machine learning models
+
+python 3.x
+pandas
+numpy
+scikitlearn
+keras
+matplotlib
+seaborn
+
+After installing python along with pip manager, install other libraries using pip install ----
+
+For example 
+
+pip install numpy
