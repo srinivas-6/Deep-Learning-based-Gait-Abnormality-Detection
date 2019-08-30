@@ -28,4 +28,19 @@ also segmented into abnormal validate (av) and abnormal test
 ## Training progress
 ![image](../assests/LSTM_progress.png)
 
+## LSTM Error Predictions on Healthy Gait
+
+![image](../assests/lstm_healthy.png)
+
+## LSTM Error Predictions on Simulated Abnormal Gaits
+
+Gait Simulation      |LSTM output       
+---      |---------|
+![](../assests/Parkinson_simulation.png)    |![](../assests/lstm_park.png) 
+![](../assests/sensory_ataxic.png)    |![](../assests/lstm_ataxic.png) 
+
+## Summary
+The proposed stacked LSTM recurrent neural network demonstrates how abnormal gait behavior can be detected considering the characteristics of the error predictions, For normal gait the LSTM error predictions are in the order of 0.02 but for the simulated abnormal gaits error predictions vary from 0.20 to 0.25, The abnormalities have different levels of difficulty as far
+as detection is concerned. Error characteristics are also subjective and vary from each type of abnormality. Also, to validate the model output and to differentiate gait characteristics significant gait parameters were calculated that show contrasting difference between normal and abnormal behaviors.
+
 ### Refer [here](../Introduction/Thesis.pdf) for more information
