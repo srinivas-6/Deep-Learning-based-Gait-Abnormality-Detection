@@ -38,4 +38,4 @@ Gait Simulation      |LSTM output
 ---      |---------|
 ![](assests/hemi_plegic_simulation.png)    |![](assests/lstm_hemiplegic.png) 
 
-Refer [here](src) for more information
+Refer [here](src) to see the LSTM predictions aganist simulated gait activity and a clear comparision with healthy gait vadilates the model output also by computing significant [gait parameters](https://en.wikipedia.org/wiki/Gait_analysis#Factors_and_parameters).
