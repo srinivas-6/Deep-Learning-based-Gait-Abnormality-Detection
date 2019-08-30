@@ -19,7 +19,7 @@ Showcases the sensor system hardware and software that was designed and develope
 
 ## Data Visualization
 
-### Visualization of data vollected from the developed sensor system
+### Visualization of data collected from the developed sensor system
 
 As pressure distributions are unique to each individual and vary based on several factors such as body weight, age and foot shape visualizing the quantitative data collected from the insole will help further for indepth analysis
 
